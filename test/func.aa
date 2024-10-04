@@ -1,0 +1,3 @@
+define void @main() {
+    ret i16 0
+}
